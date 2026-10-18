@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "test-how-to-use-this-site-2026-10-17",
+    "kid": "Test",
+    "subject": "Welcome",
+    "assignment": "How to use this site",
+    "due": "2026-10-17",
+    "desc": "Marcus introduces Homework Podcasts: what each episode covers and how to use the site before starting an assignment.",
+    "file": "episodes/test-how-to-use-this-site-2026-10-17.mp3",
+    "duration": "0:33"
+  }
+]
