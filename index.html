@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Homework Podcasts</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #14161c; color: #e8eaf0; line-height: 1.6; padding: 24px 16px 64px; }
+  .wrap { max-width: 720px; margin: 0 auto; }
+  header { text-align: center; margin-bottom: 36px; }
+  header h1 { font-size: 2rem; margin-bottom: 8px; }
+  header p { color: #9aa0b4; }
+  .episode { background: #1e2230; border: 1px solid #2c3145; border-radius: 12px; padding: 20px; margin-bottom: 16px; }
+  .episode h3 { font-size: 1.15rem; margin-bottom: 4px; }
+  .episode .meta { color: #9aa0b4; font-size: 0.85rem; margin-bottom: 10px; }
+  .episode .kid { display: inline-block; background: #2c3145; border: 1px solid #3a4060; border-radius: 999px; padding: 1px 10px; font-size: 0.78rem; color: #c9cede; margin-right: 8px; }
+  .episode p.desc { margin-bottom: 12px; color: #c9cede; }
+  .episode audio { width: 100%; }
+  .episode .share { margin-top: 10px; background: #2c3145; color: #c9cede; border: 1px solid #3a4060; border-radius: 8px; padding: 6px 12px; font-size: 0.8rem; cursor: pointer; }
+  .episode .share:hover { background: #3a4060; }
+  .episode:target, .episode.flash { border-color: #7c8aff; box-shadow: 0 0 0 2px #7c8aff; }
+  .empty { text-align: center; color: #9aa0b4; padding: 48px 0; }
+  footer { text-align: center; color: #6b7186; font-size: 0.8rem; margin-top: 48px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Homework Podcasts</h1>
+    <p>Marcus gives a quick overview of the concept and the basics of how to do each assignment. Soonest due dates first.</p>
+  </header>
+  <div id="list"><p class="empty">Loading episodes...</p></div>
+  <footer>Built and shipped by NJShell2 on GitHub Pages.</footer>
+</div>
+<script>
+// Episodes live in episodes.json, sorted soonest due date first by the publisher.
+var SITE = "https://njshell2.github.io/homework-podcasts/";
+function fmtDue(iso) {
+  var parts = iso.split("-");
+  var months = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+  return months[parseInt(parts[1], 10) - 1] + " " + parseInt(parts[2], 10) + ", " + parts[0];
+}
+function esc(s) { return String(s); }
+fetch("episodes.json").then(function (r) { return r.json(); }).then(function (eps) {
+  var box = document.getElementById("list");
+  box.innerHTML = "";
+  if (!eps.length) {
+    box.innerHTML = '<p class="empty">No episodes yet. New assignments get one automatically.</p>';
+    return;
+  }
+  eps.sort(function (a, b) { return a.due < b.due ? -1 : (a.due > b.due ? 1 : 0); });
+  eps.forEach(function (ep) {
+    var el = document.createElement("div");
+    el.className = "episode";
+    el.id = "ep-" + ep.id;
+    var h3 = document.createElement("h3");
+    h3.textContent = ep.assignment;
+    var meta = document.createElement("div");
+    meta.className = "meta";
+    var kid = document.createElement("span");
+    kid.className = "kid";
+    kid.textContent = ep.kid;
+    meta.appendChild(kid);
+    var rest = document.createElement("span");
+    rest.textContent = esc(ep.subject) + "  |  Due " + fmtDue(ep.due) + "  |  " + esc(ep.duration);
+    meta.appendChild(rest);
+    var desc = document.createElement("p");
+    desc.className = "desc";
+    desc.textContent = ep.desc;
+    var audio = document.createElement("audio");
+    audio.controls = true;
+    audio.preload = "metadata";
+    audio.src = ep.file;
+    var share = document.createElement("button");
+    share.className = "share";
+    share.type = "button";
+    share.textContent = "Copy link to this episode";
+    share.addEventListener("click", function () {
+      var link = SITE + "#" + ep.id;
+      function done(ok) {
+        share.textContent = ok ? "Copied!" : "Copy failed";
+        setTimeout(function () { share.textContent = "Copy link to this episode"; }, 2000);
+      }
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(link).then(function () { done(true); }, function () { done(false); });
+      } else {
+        var ta = document.createElement("textarea");
+        ta.value = link;
+        document.body.appendChild(ta);
+        ta.select();
+        try { done(document.execCommand("copy")); } catch (e) { done(false); }
+        document.body.removeChild(ta);
+      }
+    });
+    el.appendChild(h3);
+    el.appendChild(meta);
+    el.appendChild(desc);
+    el.appendChild(audio);
+    el.appendChild(share);
+    box.appendChild(el);
+  });
+  revealFromHash();
+}).catch(function () {
+  document.getElementById("list").innerHTML = '<p class="empty">Could not load episodes.</p>';
+});
+
+// Deep-linking: #episode-id scrolls to the episode and flashes it.
+function revealFromHash() {
+  var m = /^#([A-Za-z0-9-]+)$/.exec(location.hash || "");
+  if (!m) return;
+  var target = document.getElementById("ep-" + m[1]);
+  if (!target) return;
+  target.scrollIntoView({ block: "center" });
+  target.classList.remove("flash");
+  void target.offsetWidth;
+  target.classList.add("flash");
+  setTimeout(function () { target.classList.remove("flash"); }, 2500);
+}
+window.addEventListener("hashchange", revealFromHash);
+</script>
+</body>
+</html>
