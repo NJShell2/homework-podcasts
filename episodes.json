@@ -8,5 +8,15 @@
     "desc": "Marcus introduces Homework Podcasts: what each episode covers and how to use the site before starting an assignment.",
     "file": "episodes/test-how-to-use-this-site-2026-10-17.mp3",
     "duration": "0:33"
+  },
+  {
+    "id": "james-3-7-pre-postconditions-2026-10-26",
+    "kid": "James",
+    "subject": "CS A",
+    "assignment": "3.7 Pre/Postconditions",
+    "due": "2026-10-26",
+    "desc": "Preconditions and postconditions of the 1D array sum and average algorithms: the contract idea, worked traces, and the five bubble traps.",
+    "file": "episodes/james-3-7-pre-postconditions-2026-10-26.mp3",
+    "duration": "2:55"
   }
 ]
