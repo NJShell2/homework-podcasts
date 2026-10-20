@@ -18,5 +18,15 @@
     "desc": "Preconditions and postconditions of the 1D array sum and average algorithms: the contract idea, worked traces, and the five bubble traps.",
     "file": "episodes/james-3-7-pre-postconditions-2026-10-26.mp3",
     "duration": "2:55"
+  },
+  {
+    "id": "james-3-8-ethical-data-collection-2026-10-27",
+    "kid": "James",
+    "subject": "CS A",
+    "assignment": "3.8 Ethical Data Collection",
+    "due": "2026-10-27",
+    "desc": "Marcus explains data bias, how it hurts program accuracy and efficiency, how to judge whether a data set fits the question, and how algorithmic bias leads to unfair real-world outcomes.",
+    "file": "episodes/james-3-8-ethical-data-collection-2026-10-27.mp3",
+    "duration": "3:17"
   }
 ]
