@@ -28,5 +28,15 @@
     "desc": "Marcus explains data bias, how it hurts program accuracy and efficiency, how to judge whether a data set fits the question, and how algorithmic bias leads to unfair real-world outcomes.",
     "file": "episodes/james-3-8-ethical-data-collection-2026-10-27.mp3",
     "duration": "3:17"
+  },
+  {
+    "id": "isabella-due-10-27-3-6-hw-quadratic-inequalities-2026-10-27",
+    "kid": "Isabella",
+    "subject": "Algebra II Honors",
+    "assignment": "Due 10/27: 3.6 HW (Quadratic Inequalities)",
+    "due": "2026-10-27",
+    "desc": "Marcus walks through quadratic inequalities: graphing with boundary and shading, solving with the related equation and test intervals, and parabola set-up. The deck carries every worked answer.",
+    "file": "episodes/isabella-due-10-27-3-6-hw-quadratic-inequalities-2026-10-27.mp3",
+    "duration": "3:26"
   }
 ]
