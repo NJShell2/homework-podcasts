@@ -1,5 +1,15 @@
 [
   {
+    "id": "james-momentum-simulation-problems-2026-10-13",
+    "kid": "James",
+    "subject": "Physics",
+    "assignment": "Momentum Simulation Problems",
+    "due": "2026-10-13",
+    "desc": "Conservation of momentum across seven Physics Aviary simulations: the method for each level, since values randomize every run.",
+    "file": "episodes/james-momentum-simulation-problems-2026-10-13.mp3",
+    "duration": "3:14"
+  },
+  {
     "id": "test-how-to-use-this-site-2026-10-17",
     "kid": "Test",
     "subject": "Welcome",
