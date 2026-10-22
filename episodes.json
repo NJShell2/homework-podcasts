@@ -58,5 +58,15 @@
     "desc": "Polymorphism in Java: one superclass type holding many subclass objects, which method version runs, and the casting traps on the Code.org bubbles. The study deck carries the worked examples.",
     "file": "episodes/james-3-9-polymorphism-2026-10-29.mp3",
     "duration": "3:18"
+  },
+  {
+    "id": "james-research-proposal-2026-10-29",
+    "kid": "James",
+    "subject": "English 12",
+    "assignment": "Research Proposal",
+    "due": "2026-10-29",
+    "desc": "What a research proposal is and the five parts to write: research question, significance, working thesis, source plan, and structure. The study deck carries the full models.",
+    "file": "episodes/james-research-proposal-2026-10-29.mp3",
+    "duration": "3:08"
   }
 ]
