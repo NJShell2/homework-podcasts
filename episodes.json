@@ -48,5 +48,15 @@
     "desc": "Marcus walks through quadratic inequalities: graphing with boundary and shading, solving with the related equation and test intervals, and parabola set-up. The deck carries every worked answer.",
     "file": "episodes/isabella-due-10-27-3-6-hw-quadratic-inequalities-2026-10-27.mp3",
     "duration": "3:26"
+  },
+  {
+    "id": "james-3-9-polymorphism-2026-10-29",
+    "kid": "James",
+    "subject": "CS A",
+    "assignment": "3.9 Polymorphism",
+    "due": "2026-10-29",
+    "desc": "Polymorphism in Java: one superclass type holding many subclass objects, which method version runs, and the casting traps on the Code.org bubbles. The study deck carries the worked examples.",
+    "file": "episodes/james-3-9-polymorphism-2026-10-29.mp3",
+    "duration": "3:18"
   }
 ]
