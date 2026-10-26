@@ -78,5 +78,15 @@
     "desc": "What a research proposal is and the five parts to write: research question, significance, working thesis, source plan, and structure. The study deck carries the full models.",
     "file": "episodes/james-research-proposal-2026-10-29.mp3",
     "duration": "3:08"
+  },
+  {
+    "id": "james-3-10-enhanced-for-loops-2026-10-30",
+    "kid": "James",
+    "subject": "CS A",
+    "assignment": "3.10 Enhanced For Loops",
+    "due": "2026-10-30",
+    "desc": "Marcus explains the enhanced for loop: its syntax, when to use it instead of while and standard for loops, and the two traps to avoid on the Code.org bubbles.",
+    "file": "episodes/james-3-10-enhanced-for-loops-2026-10-30.mp3",
+    "duration": "2:59"
   }
 ]
