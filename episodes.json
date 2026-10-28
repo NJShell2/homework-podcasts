@@ -138,5 +138,15 @@
     "desc": "Finding duplicates with nested loops: why the inner loop starts at i + 1, the boolean version, and the counting version.",
     "file": "episodes/james-3-12-finding-duplicates-2026-11-04.mp3",
     "duration": "1:11"
+  },
+  {
+    "id": "isabella-4-1-hw-polynomial-functions-2026-11-04",
+    "kid": "Isabella",
+    "subject": "Algebra II Honors",
+    "assignment": "4.1 HW (Polynomial Functions)",
+    "due": "2026-11-04",
+    "desc": "Polynomial functions basics: degree and leading coefficient, the two-question end behavior method, and careful evaluation.",
+    "file": "episodes/isabella-4-1-hw-polynomial-functions-2026-11-04.mp3",
+    "duration": "1:24"
   }
 ]
