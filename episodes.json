@@ -110,6 +110,16 @@
     "duration": "3:08"
   },
   {
+    "id": "james-unit-3-review-2026-10-29",
+    "kid": "James",
+    "subject": "Calculus",
+    "assignment": "Unit 3 Review",
+    "due": "2026-10-29",
+    "desc": "Marcus reviews Unit 3 for the test: chain rule, implicit differentiation, trig derivatives, inverse functions, logarithmic differentiation, and higher order derivatives.",
+    "file": "episodes/james-unit-3-review-2026-10-29.mp3",
+    "duration": "2:16"
+  },
+  {
     "id": "james-3-10-enhanced-for-loops-2026-10-30",
     "kid": "James",
     "subject": "CS A",
