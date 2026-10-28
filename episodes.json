@@ -118,5 +118,15 @@
     "desc": "Marcus explains the enhanced for loop: its syntax, when to use it instead of while and standard for loops, and the two traps to avoid on the Code.org bubbles.",
     "file": "episodes/james-3-10-enhanced-for-loops-2026-10-30.mp3",
     "duration": "2:59"
+  },
+  {
+    "id": "james-3-11-array-algorithms-2026-11-03",
+    "kid": "James",
+    "subject": "Computer Science A",
+    "assignment": "3.11 Array Algorithms",
+    "due": "2026-11-03",
+    "desc": "Array algorithms basics: where the return statement goes in search, count, max, and modify patterns, plus the String equals rule.",
+    "file": "episodes/james-3-11-array-algorithms-2026-11-03.mp3",
+    "duration": "1:35"
   }
 ]
