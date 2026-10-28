@@ -158,5 +158,15 @@
     "desc": "The Source Evaluation Matrix: five criteria, keep or caution or drop verdicts, and how it feeds the Annotated Bibliography.",
     "file": "episodes/james-source-eval-matrix-2026-11-05.mp3",
     "duration": "1:23"
+  },
+  {
+    "id": "isabella-4-2-hw-adding-subtracting-multiplying-polynomials-2026-11-05",
+    "kid": "Isabella",
+    "subject": "Algebra II Honors",
+    "assignment": "4.2 HW (Adding, Subtracting, & Multiplying Polynomials)",
+    "due": "2026-11-05",
+    "desc": "Adding, subtracting, and multiplying polynomials: like terms, the sign flip rule, FOIL, and the three special products.",
+    "file": "episodes/isabella-4-2-hw-adding-subtracting-multiplying-polynomials-2026-11-05.mp3",
+    "duration": "1:20"
   }
 ]
