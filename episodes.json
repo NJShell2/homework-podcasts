@@ -128,5 +128,15 @@
     "desc": "Array algorithms basics: where the return statement goes in search, count, max, and modify patterns, plus the String equals rule.",
     "file": "episodes/james-3-11-array-algorithms-2026-11-03.mp3",
     "duration": "1:35"
+  },
+  {
+    "id": "james-3-12-finding-duplicates-2026-11-04",
+    "kid": "James",
+    "subject": "Computer Science A",
+    "assignment": "3.12 Finding Duplicates",
+    "due": "2026-11-04",
+    "desc": "Finding duplicates with nested loops: why the inner loop starts at i + 1, the boolean version, and the counting version.",
+    "file": "episodes/james-3-12-finding-duplicates-2026-11-04.mp3",
+    "duration": "1:11"
   }
 ]
