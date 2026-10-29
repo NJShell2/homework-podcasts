@@ -238,5 +238,15 @@
     "desc": "Marcus explains Big O notation: constant, logarithmic, linear, and quadratic growth, and how to rank algorithms.",
     "file": "episodes/james-brilliant-cs-fundamentals-2026-11-13.mp3",
     "duration": "1:28"
+  },
+  {
+    "id": "james-lit-review-2026-11-17",
+    "kid": "James",
+    "subject": "English 12",
+    "assignment": "Lit Review",
+    "due": "2026-11-17",
+    "desc": "Marcus explains the literature review: synthesis by theme, not source by source summaries, plus the gap your paper fills.",
+    "file": "episodes/james-lit-review-2026-11-17.mp3",
+    "duration": "1:24"
   }
 ]
