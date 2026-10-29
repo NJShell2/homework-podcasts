@@ -218,5 +218,15 @@
     "desc": "Marcus explains the Ticket Tracker FRQ method: reading specs, array traversal patterns, and tracing peer code.",
     "file": "episodes/james-3-14-ticket-tracker-frq-2026-11-11.mp3",
     "duration": "1:22"
+  },
+  {
+    "id": "james-3-13-data-for-social-good-2026-11-13",
+    "kid": "James",
+    "subject": "CS A",
+    "assignment": "3.13 Data for Social Good",
+    "due": "2026-11-13",
+    "desc": "Marcus maps the 25 point Data for Social Good rubric: class design, arrays from text files, methods, documentation, toString, and the project guide.",
+    "file": "episodes/james-3-13-data-for-social-good-2026-11-13.mp3",
+    "duration": "1:22"
   }
 ]
