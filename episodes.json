@@ -248,5 +248,15 @@
     "desc": "Marcus explains the literature review: synthesis by theme, not source by source summaries, plus the gap your paper fills.",
     "file": "episodes/james-lit-review-2026-11-17.mp3",
     "duration": "1:24"
+  },
+  {
+    "id": "james-sentence-outline-2026-11-20",
+    "kid": "James",
+    "subject": "English 12",
+    "assignment": "Sentence Outline",
+    "due": "2026-11-20",
+    "desc": "Marcus explains the sentence outline: full sentences, thesis to main points, evidence with sources, and the counterargument point.",
+    "file": "episodes/james-sentence-outline-2026-11-20.mp3",
+    "duration": "1:18"
   }
 ]
