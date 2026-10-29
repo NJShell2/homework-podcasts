@@ -228,5 +228,15 @@
     "desc": "Marcus maps the 25 point Data for Social Good rubric: class design, arrays from text files, methods, documentation, toString, and the project guide.",
     "file": "episodes/james-3-13-data-for-social-good-2026-11-13.mp3",
     "duration": "1:22"
+  },
+  {
+    "id": "james-brilliant-cs-fundamentals-2026-11-13",
+    "kid": "James",
+    "subject": "CS A",
+    "assignment": "Brilliant CS Fundamentals",
+    "due": "2026-11-13",
+    "desc": "Marcus explains Big O notation: constant, logarithmic, linear, and quadratic growth, and how to rank algorithms.",
+    "file": "episodes/james-brilliant-cs-fundamentals-2026-11-13.mp3",
+    "duration": "1:28"
   }
 ]
