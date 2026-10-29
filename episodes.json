@@ -208,5 +208,15 @@
     "desc": "Marcus explains the annotated bibliography: 8 to 10 sources, four parts per annotation, and how the rubric points break down.",
     "file": "episodes/james-annotated-bib-2026-11-11.mp3",
     "duration": "1:27"
+  },
+  {
+    "id": "james-3-14-ticket-tracker-frq-2026-11-11",
+    "kid": "James",
+    "subject": "CS A",
+    "assignment": "3.14 Ticket Tracker FRQ",
+    "due": "2026-11-11",
+    "desc": "Marcus explains the Ticket Tracker FRQ method: reading specs, array traversal patterns, and tracing peer code.",
+    "file": "episodes/james-3-14-ticket-tracker-frq-2026-11-11.mp3",
+    "duration": "1:22"
   }
 ]
