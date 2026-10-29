@@ -268,5 +268,15 @@
     "desc": "Marcus explains the sentence outline: full sentences, thesis to main points, evidence with sources, and the counterargument point.",
     "file": "episodes/james-sentence-outline-2026-11-20.mp3",
     "duration": "1:18"
+  },
+  {
+    "id": "james-research-rough-draft-2026-12-01",
+    "kid": "James",
+    "subject": "English 12",
+    "assignment": "Research Rough Draft",
+    "due": "2026-12-01",
+    "desc": "How to turn your sentence outline into a full rough draft for the research paper, with a printed copy to bring to class.",
+    "file": "episodes/james-research-rough-draft-2026-12-01.mp3",
+    "duration": "1:42"
   }
 ]
