@@ -160,6 +160,16 @@
     "duration": "2:45"
   },
   {
+    "id": "james-ws-topic-4-1-2026-11-02",
+    "kid": "James",
+    "subject": "Calculus",
+    "assignment": "WS Topic 4.1",
+    "due": "2026-11-02",
+    "desc": "Marcus explains Topic 4.1: what a derivative means in context, its units and sign, and how to estimate a rate from a table.",
+    "file": "episodes/james-ws-topic-4-1-2026-11-02.mp3",
+    "duration": "3:47"
+  },
+  {
     "id": "james-3-11-array-algorithms-2026-11-03",
     "kid": "James",
     "subject": "Computer Science A",
