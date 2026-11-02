@@ -298,5 +298,15 @@
     "desc": "How to turn your sentence outline into a full rough draft for the research paper, with a printed copy to bring to class.",
     "file": "episodes/james-research-rough-draft-2026-12-01.mp3",
     "duration": "1:42"
+  },
+  {
+    "id": "james-peer-review-workshop-2026-12-03",
+    "kid": "James",
+    "subject": "English",
+    "assignment": "Peer Review Workshop",
+    "due": "2026-12-03",
+    "desc": "Marcus explains how to give useful peer review feedback: the six areas to check and the required written feedback set.",
+    "file": "episodes/james-peer-review-workshop-2026-12-03.mp3",
+    "duration": "1:40"
   }
 ]
