@@ -180,6 +180,16 @@
     "duration": "1:35"
   },
   {
+    "id": "james-ws-topic-4-2-2026-11-03",
+    "kid": "James",
+    "subject": "Calculus",
+    "assignment": "WS Topic 4.2",
+    "due": "2026-11-03",
+    "desc": "Straight-line motion: position, velocity, and acceleration, rest times, speeding up versus slowing down, and displacement versus total distance.",
+    "file": "episodes/james-ws-topic-4-2-2026-11-03.mp3",
+    "duration": "1:30"
+  },
+  {
     "id": "james-3-12-finding-duplicates-2026-11-04",
     "kid": "James",
     "subject": "Computer Science A",
