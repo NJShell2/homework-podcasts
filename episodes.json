@@ -230,6 +230,16 @@
     "duration": "1:24"
   },
   {
+    "id": "james-ws-topic-4-3-2026-11-04",
+    "kid": "James",
+    "subject": "Calculus",
+    "assignment": "WS Topic 4.3",
+    "due": "2026-11-04",
+    "desc": "Marcus explains rates of change in applied contexts: reading a derivative as a rate, average vs instantaneous rate, and stating answers with units.",
+    "file": "episodes/james-ws-topic-4-3-2026-11-04.mp3",
+    "duration": "0:58"
+  },
+  {
     "id": "james-source-eval-matrix-2026-11-05",
     "kid": "James",
     "subject": "English 12",
