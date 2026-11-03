@@ -368,5 +368,15 @@
     "desc": "Marcus explains the multimedia project: adapting the research argument for a public audience in an 8 to 10 minute presentation.",
     "file": "episodes/james-multimedia-proj-2026-12-11.mp3",
     "duration": "0:44"
+  },
+  {
+    "id": "james-final-portfolio-2026-12-15",
+    "kid": "James",
+    "subject": "English",
+    "assignment": "Final Portfolio",
+    "due": "2026-12-15",
+    "desc": "Marcus explains the final portfolio: required contents, evidence of revision, and the 3 to 4 page final reflection essay.",
+    "file": "episodes/james-final-portfolio-2026-12-15.mp3",
+    "duration": "0:56"
   }
 ]
