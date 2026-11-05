@@ -290,6 +290,16 @@
     "duration": "2:01"
   },
   {
+    "id": "james-ws-topic-4-4-4-5-2026-11-05",
+    "kid": "James",
+    "subject": "Calculus",
+    "assignment": "WS Topic 4.4/4.5",
+    "due": "2026-11-05",
+    "desc": "Related rates: the five-step method, the sliding ladder, the filling cone, the expanding sphere, and the shadow.",
+    "file": "episodes/james-ws-topic-4-4-4-5-2026-11-05.mp3",
+    "duration": "2:41"
+  },
+  {
     "id": "isabella-ch-4-thinking-critically-2026-11-06",
     "kid": "Isabella",
     "subject": "Management",
