@@ -450,6 +450,16 @@
     "duration": "1:54"
   },
   {
+    "id": "james-ws-topic-4-6-2026-11-12",
+    "kid": "James",
+    "subject": "Calculus",
+    "assignment": "WS Topic 4.6",
+    "due": "2026-11-12",
+    "desc": "Marcus explains local linearity and linearization: how the tangent line estimates nearby values, the five-step method, and worked examples with square roots, cubes, and sine.",
+    "file": "episodes/james-ws-topic-4-6-2026-11-12.mp3",
+    "duration": "3:25"
+  },
+  {
     "id": "james-3-13-data-for-social-good-2026-11-13",
     "kid": "James",
     "subject": "CS A",
