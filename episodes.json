@@ -520,6 +520,16 @@
     "duration": "2:00"
   },
   {
+    "id": "james-ws-topic-4-7-2026-11-16",
+    "kid": "James",
+    "subject": "Calculus",
+    "assignment": "WS Topic 4.7",
+    "due": "2026-11-16",
+    "desc": "Marcus explains L'Hospital's Rule: when it applies, the three-step check, and how to rewrite zero times infinity and power forms so the rule can be used.",
+    "file": "episodes/james-ws-topic-4-7-2026-11-16.mp3",
+    "duration": "2:27"
+  },
+  {
     "id": "james-lit-review-2026-11-17",
     "kid": "James",
     "subject": "English 12",
