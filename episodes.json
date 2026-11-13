@@ -540,6 +540,16 @@
     "duration": "1:24"
   },
   {
+    "id": "james-unit-4-review-2026-11-17",
+    "kid": "James",
+    "subject": "Calculus",
+    "assignment": "Unit 4 Review",
+    "due": "2026-11-17",
+    "desc": "Marcus reviews Unit 4, contextual applications of differentiation: motion, related rates, linearization, and L'Hospital's Rule.",
+    "file": "episodes/james-unit-4-review-2026-11-17.mp3",
+    "duration": "2:29"
+  },
+  {
     "id": "james-sentence-outline-2026-11-20",
     "kid": "James",
     "subject": "English 12",
