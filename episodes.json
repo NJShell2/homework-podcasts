@@ -680,6 +680,16 @@
     "duration": "1:34"
   },
   {
+    "id": "james-4-2-static-variables-methods-2026-11-20",
+    "kid": "James",
+    "subject": "CS A",
+    "assignment": "4.2 Static Variables & Methods",
+    "due": "2026-11-20",
+    "desc": "Marcus teaches static vs instance: one shared copy per class, calling through the class name, and the shared counter example.",
+    "file": "episodes/james-4-2-static-variables-methods-2026-11-20.mp3",
+    "duration": "2:18"
+  },
+  {
     "id": "isabella-history-lab-8-the-west-2026-11-23",
     "kid": "Isabella",
     "subject": "US History",
