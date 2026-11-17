@@ -730,6 +730,16 @@
     "duration": "3:24"
   },
   {
+    "id": "james-4-4-casting-rounding-2026-11-24",
+    "kid": "James",
+    "subject": "CS A",
+    "assignment": "4.4 Casting & Rounding",
+    "due": "2026-11-24",
+    "desc": "Marcus teaches casting: truncation, integer division traps, and rounding with (int)(x + 0.5).",
+    "file": "episodes/james-4-4-casting-rounding-2026-11-24.mp3",
+    "duration": "3:34"
+  },
+  {
     "id": "james-research-rough-draft-2026-12-01",
     "kid": "James",
     "subject": "English 12",
