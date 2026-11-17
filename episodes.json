@@ -800,6 +800,16 @@
     "duration": "1:40"
   },
   {
+    "id": "james-4-8-logical-operators-2026-12-03",
+    "kid": "James",
+    "subject": "CS A",
+    "assignment": "4.8 Logical Operators",
+    "due": "2026-12-03",
+    "desc": "Marcus teaches AND/OR/NOT, truth tables, precedence, and short-circuit evaluation; the Truth Tables doc is half the points.",
+    "file": "episodes/james-4-8-logical-operators-2026-12-03.mp3",
+    "duration": "1:57"
+  },
+  {
     "id": "isabella-due-12-4-5-1-hw-nth-roots-rational-exponents-2026-12-04",
     "kid": "Isabella",
     "subject": "Algebra II",
