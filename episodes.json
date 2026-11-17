@@ -740,6 +740,16 @@
     "duration": "3:34"
   },
   {
+    "id": "james-4-5-random-2026-11-30",
+    "kid": "James",
+    "subject": "CS A",
+    "assignment": "4.5 Random",
+    "due": "2026-11-30",
+    "desc": "Marcus teaches Math.random() ranges with casting and random array elements, with the extremes check.",
+    "file": "episodes/james-4-5-random-2026-11-30.mp3",
+    "duration": "2:26"
+  },
+  {
     "id": "james-research-rough-draft-2026-12-01",
     "kid": "James",
     "subject": "English 12",
