@@ -700,6 +700,16 @@
     "duration": "1:42"
   },
   {
+    "id": "isabella-ch-4-test-2026-12-01",
+    "kid": "Isabella",
+    "subject": "Algebra II",
+    "assignment": "Ch. 4 Test",
+    "due": "2026-12-01",
+    "desc": "Chapter 4 review (test is PowerSchool-only, not in Canvas): factoring, substitution, Rational Root Theorem, zeros and graphs, counting zeros with the Fundamental Theorem and Descartes, and conjugate pairs, each with a worked example.",
+    "file": "episodes/isabella-ch-4-test-2026-12-01.mp3",
+    "duration": "3:19"
+  },
+  {
     "id": "james-peer-review-workshop-2026-12-03",
     "kid": "James",
     "subject": "English",
