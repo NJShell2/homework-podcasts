@@ -610,6 +610,16 @@
     "duration": "4:03"
   },
   {
+    "id": "james-4-1-the-theater-2026-11-19",
+    "kid": "James",
+    "subject": "CS A",
+    "assignment": "4.1 The Theater",
+    "due": "2026-11-19",
+    "desc": "Marcus teaches the 4.1 objectives: calling methods from existing classes and reading API documentation for The Theater unit.",
+    "file": "episodes/james-4-1-the-theater-2026-11-19.mp3",
+    "duration": "2:16"
+  },
+  {
     "id": "james-sentence-outline-2026-11-20",
     "kid": "James",
     "subject": "English 12",
