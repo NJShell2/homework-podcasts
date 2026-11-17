@@ -830,6 +830,16 @@
     "duration": "1:52"
   },
   {
+    "id": "james-4-9-demorgan-s-laws-2026-12-04",
+    "kid": "James",
+    "subject": "CS A",
+    "assignment": "4.9 DeMorgan's Laws",
+    "due": "2026-12-04",
+    "desc": "Marcus teaches De Morgan's Laws with truth-table proofs and worked simplifications.",
+    "file": "episodes/james-4-9-demorgan-s-laws-2026-12-04.mp3",
+    "duration": "2:20"
+  },
+  {
     "id": "james-final-research-essay-2026-12-07",
     "kid": "James",
     "subject": "English",
@@ -868,6 +878,16 @@
     "desc": "Marcus teaches the Reconstruction content behind the four real prompts: what Reconstruction was, the challenges, the successes and failures, and how to argue the verdict, with reading and film evidence points.",
     "file": "episodes/isabella-chapter-15-1-2026-12-12.mp3",
     "duration": "2:39"
+  },
+  {
+    "id": "isabella-semester-exams-2026-12-14",
+    "kid": "Isabella",
+    "subject": "Algebra II",
+    "assignment": "Semester Exams",
+    "due": "2026-12-14",
+    "desc": "Semester review (exam not in Canvas): Chapter 4 polynomial skills plus 5.1 nth roots and rational exponents and 5.2 radical operations, with worked examples and a study plan.",
+    "file": "episodes/isabella-semester-exams-2026-12-14.mp3",
+    "duration": "2:56"
   },
   {
     "id": "james-final-portfolio-2026-12-15",
