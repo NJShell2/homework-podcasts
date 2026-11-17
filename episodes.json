@@ -860,6 +860,16 @@
     "duration": "0:48"
   },
   {
+    "id": "james-4-10-multi-selection-state-2026-12-07",
+    "kid": "James",
+    "subject": "CS A",
+    "assignment": "4.10 Multi-Selection State",
+    "due": "2026-12-07",
+    "desc": "Marcus teaches if/else-if chains: first true branch wins, ordering, and chains vs separate ifs.",
+    "file": "episodes/james-4-10-multi-selection-state-2026-12-07.mp3",
+    "duration": "1:59"
+  },
+  {
     "id": "isabella-due-12-9-5-2-hw-rational-exponents-radicals-2026-12-09",
     "kid": "Isabella",
     "subject": "Algebra II",
