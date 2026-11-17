@@ -670,6 +670,16 @@
     "duration": "2:26"
   },
   {
+    "id": "james-photography-4-2026-11-20",
+    "kid": "James",
+    "subject": "Student Publications",
+    "assignment": "Photography #4",
+    "due": "2026-11-20",
+    "desc": "Marcus covers Photography #4: the four required parts of the upload document and how to write each one.",
+    "file": "episodes/james-photography-4-2026-11-20.mp3",
+    "duration": "1:34"
+  },
+  {
     "id": "isabella-history-lab-8-the-west-2026-11-23",
     "kid": "Isabella",
     "subject": "US History",
@@ -728,6 +738,16 @@
     "desc": "Marcus explains how to give useful peer review feedback: the six areas to check and the required written feedback set.",
     "file": "episodes/james-peer-review-workshop-2026-12-03.mp3",
     "duration": "1:40"
+  },
+  {
+    "id": "isabella-due-12-4-5-1-hw-nth-roots-rational-exponents-2026-12-04",
+    "kid": "Isabella",
+    "subject": "Algebra II",
+    "assignment": "Due 12/4: 5.1 HW (nth Roots & Rational Exponents)",
+    "due": "2026-12-04",
+    "desc": "Practice fundamentals (real problems locked until Dec 2): nth roots, evaluating rational exponents root-first, negative and zero exponents, the exponent rules with fractions, simplifying radicals, and solving power equations.",
+    "file": "episodes/isabella-due-12-4-5-1-hw-nth-roots-rational-exponents-2026-12-04.mp3",
+    "duration": "2:58"
   },
   {
     "id": "james-final-research-essay-2026-12-07",
