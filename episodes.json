@@ -858,5 +858,15 @@
     "desc": "Marcus explains the final portfolio: required contents, evidence of revision, and the 3 to 4 page final reflection essay.",
     "file": "episodes/james-final-portfolio-2026-12-15.mp3",
     "duration": "0:56"
+  },
+  {
+    "id": "isabella-hlab-reconstruction-2026-12-15",
+    "kid": "Isabella",
+    "subject": "US History",
+    "assignment": "HLab Reconstruction",
+    "due": "2026-12-15",
+    "desc": "Marcus explains History Lab 1: the Source Set 1 menu, the Source Set 2 Jim Crow resources, the identify-analyze-question method, and how the 25 points are scored.",
+    "file": "episodes/isabella-hlab-reconstruction-2026-12-15.mp3",
+    "duration": "2:41"
   }
 ]
