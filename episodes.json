@@ -770,6 +770,16 @@
     "duration": "3:19"
   },
   {
+    "id": "james-4-6-object-aliases-equality-2026-12-01",
+    "kid": "James",
+    "subject": "CS A",
+    "assignment": "4.6 Object Aliases & Equality",
+    "due": "2026-12-01",
+    "desc": "Marcus explains references, aliases, == vs equals(), and how to write an equals() method.",
+    "file": "episodes/james-4-6-object-aliases-equality-2026-12-01.mp3",
+    "duration": "2:16"
+  },
+  {
     "id": "james-peer-review-workshop-2026-12-03",
     "kid": "James",
     "subject": "English",
