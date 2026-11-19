@@ -102,7 +102,11 @@ fetch("episodes.json").then(function (r) { return r.json(); }).then(function (ep
     el.appendChild(share);
     box.appendChild(el);
   });
-  revealFromHash();
+  // A deep link (#episode-id) wins. With no deep link, land on today:
+  // Nicholas opens the bare page to hear today's episodes.
+  if (!revealFromHash()) {
+    jumpToToday(eps);
+  }
 }).catch(function () {
   document.getElementById("list").innerHTML = '<p class="empty">Could not load episodes.</p>';
 });
@@ -110,11 +114,12 @@ fetch("episodes.json").then(function (r) { return r.json(); }).then(function (ep
 // Deep-linking: #episode-id scrolls to the episode, flashes it, and adds
 // a large one-tap play button (browsers block autoplay with sound, so this
 // is the closest equivalent: one tap starts playback as a user gesture).
+// Returns true when a matching episode was found.
 function revealFromHash() {
   var m = /^#([A-Za-z0-9-]+)$/.exec(location.hash || "");
-  if (!m) return;
+  if (!m) return false;
   var target = document.getElementById("ep-" + m[1]);
-  if (!target) return;
+  if (!target) return false;
   target.scrollIntoView({ block: "center" });
   target.classList.remove("flash");
   void target.offsetWidth;
@@ -133,6 +138,30 @@ function revealFromHash() {
     audio.addEventListener("play", function () { big.remove(); }, { once: true });
     target.insertBefore(big, target.firstChild);
   }
+  return true;
+}
+
+// No deep link: scroll to today's first episode (episodes are sorted
+// soonest due first). If nothing is due today or later, land on the
+// most recent one. The target flashes so it is easy to spot.
+function jumpToToday(eps) {
+  var d = new Date();
+  var mm = String(d.getMonth() + 1);
+  if (mm.length < 2) mm = "0" + mm;
+  var dd = String(d.getDate());
+  if (dd.length < 2) dd = "0" + dd;
+  var today = d.getFullYear() + "-" + mm + "-" + dd;
+  var pick = null;
+  for (var i = 0; i < eps.length; i++) {
+    if (eps[i].due >= today) { pick = eps[i]; break; }
+  }
+  if (!pick && eps.length) pick = eps[eps.length - 1];
+  if (!pick) return;
+  var el = document.getElementById("ep-" + pick.id);
+  if (!el) return;
+  el.scrollIntoView({ block: "center" });
+  el.classList.add("flash");
+  setTimeout(function () { el.classList.remove("flash"); }, 2500);
 }
 window.addEventListener("hashchange", revealFromHash);
 </script>
