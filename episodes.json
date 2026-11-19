@@ -650,6 +650,16 @@
     "duration": "3:24"
   },
   {
+    "id": "james-ws-topic-5-1-2026-11-19",
+    "kid": "James",
+    "subject": "Calculus",
+    "assignment": "WS Topic 5.1",
+    "due": "2026-11-19",
+    "desc": "Mean Value Theorem basics: the theorem, Rolle's special case, checking the hypotheses, and finding c, with practice examples.",
+    "file": "episodes/james-ws-topic-5-1-2026-11-19.mp3",
+    "duration": "4:04"
+  },
+  {
     "id": "james-sentence-outline-2026-11-20",
     "kid": "James",
     "subject": "English 12",
