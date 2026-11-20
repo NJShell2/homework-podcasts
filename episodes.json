@@ -680,16 +680,6 @@
     "duration": "5:18"
   },
   {
-    "id": "isabella-ch-5-thinking-critically-2026-11-20",
-    "kid": "Isabella",
-    "subject": "Management Fundamentals",
-    "assignment": "Ch. 5 Thinking Critically",
-    "due": "2026-11-20",
-    "desc": "Marcus teaches the control process and answers all 8 real Ch. 5 Thinking Critically questions: management by exception, the four control steps, critical path, quality control, effective control systems, types of controls, and production reports.",
-    "file": "episodes/isabella-ch-5-thinking-critically-2026-11-20.mp3",
-    "duration": "3:05"
-  },
-  {
     "id": "james-vocab-list-10-2026-11-20",
     "kid": "James",
     "subject": "English 12",
@@ -728,6 +718,16 @@
     "desc": "Marcus explains the Saint Patrick's Battalion: anti-Catholic prejudice, Irish identity, and how the same men are heroes in Mexico and deserters in the United States.",
     "file": "episodes/isabella-irish-americans-the-m-a-war-2026-11-20.mp3",
     "duration": "4:20"
+  },
+  {
+    "id": "isabella-ch-5-thinking-critically-2026-11-20",
+    "kid": "Isabella",
+    "subject": "Management Fundamentals",
+    "assignment": "Ch. 5 Thinking Critically",
+    "due": "2026-11-20",
+    "desc": "Marcus re-records from the real Canvas questions: teams, plan implementation, pay as a motivator, layoff planning, management functions, standards, and security.",
+    "file": "episodes/isabella-ch-5-thinking-critically-2026-11-20.mp3",
+    "duration": "3:30"
   },
   {
     "id": "isabella-history-lab-8-the-west-2026-11-23",
