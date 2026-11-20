@@ -690,16 +690,6 @@
     "duration": "3:05"
   },
   {
-    "id": "isabella-irish-americans-the-m-a-war-2026-11-20",
-    "kid": "Isabella",
-    "subject": "US History",
-    "assignment": "Irish Americans & the M-A War",
-    "due": "2026-11-20",
-    "desc": "Practice background (real assignment locked until Nov 19): Irish famine immigration and nativism, the causes and campaigns of the Mexican-American War, the Saint Patrick's Battalion that links them, and the Treaty of Guadalupe Hidalgo.",
-    "file": "episodes/isabella-irish-americans-the-m-a-war-2026-11-20.mp3",
-    "duration": "3:15"
-  },
-  {
     "id": "james-vocab-list-10-2026-11-20",
     "kid": "James",
     "subject": "English 12",
@@ -728,6 +718,16 @@
     "desc": "Marcus teaches static vs instance: one shared copy per class, calling through the class name, and the shared counter example.",
     "file": "episodes/james-4-2-static-variables-methods-2026-11-20.mp3",
     "duration": "2:18"
+  },
+  {
+    "id": "isabella-irish-americans-the-m-a-war-2026-11-20",
+    "kid": "Isabella",
+    "subject": "US History",
+    "assignment": "Irish Americans & the M-A War",
+    "due": "2026-11-20",
+    "desc": "Marcus explains the Saint Patrick's Battalion: anti-Catholic prejudice, Irish identity, and how the same men are heroes in Mexico and deserters in the United States.",
+    "file": "episodes/isabella-irish-americans-the-m-a-war-2026-11-20.mp3",
+    "duration": "4:20"
   },
   {
     "id": "isabella-history-lab-8-the-west-2026-11-23",
