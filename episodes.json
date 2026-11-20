@@ -750,16 +750,6 @@
     "duration": "2:35"
   },
   {
-    "id": "isabella-ch-13-2-questions-2026-11-24",
-    "kid": "Isabella",
-    "subject": "US History",
-    "assignment": "Ch. 13-2 Questions",
-    "due": "2026-11-24",
-    "desc": "Marcus gives a concept overview of the aftermath of the Mexican-American War: the gold rush, the Compromise of 1850, the Fugitive Slave Act, and popular sovereignty. Practice material, the real questions were not visible from the parent view.",
-    "file": "episodes/isabella-ch-13-2-questions-2026-11-24.mp3",
-    "duration": "4:33"
-  },
-  {
     "id": "isabella-due-11-24-4-6-hw-fundamental-theorem-of-algebra-descartes-rule-of-signs-complex-conjugates-theorem-2026-11-24",
     "kid": "Isabella",
     "subject": "Algebra II",
@@ -788,6 +778,16 @@
     "desc": "Marcus teaches the VSEPR method: counting electron domains, the five geometries, lone pair effects, and worked examples for ammonia, water, and carbon dioxide. Practice material; the real assignment is in Pearson.",
     "file": "episodes/isabella-vsepr-2026-11-24.mp3",
     "duration": "3:00"
+  },
+  {
+    "id": "isabella-ch-13-2-questions-2026-11-24",
+    "kid": "Isabella",
+    "subject": "US History",
+    "assignment": "Ch. 13-2 Questions",
+    "due": "2026-11-24",
+    "desc": "Marcus explains the road to the Civil War: the gold rush, Japan, western expansion, Dred Scott, Bleeding Kansas, the three compromises, and secession.",
+    "file": "episodes/isabella-ch-13-2-questions-2026-11-24.mp3",
+    "duration": "4:52"
   },
   {
     "id": "james-4-5-random-2026-11-30",
