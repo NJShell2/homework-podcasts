@@ -730,16 +730,6 @@
     "duration": "3:30"
   },
   {
-    "id": "isabella-history-lab-8-the-west-2026-11-23",
-    "kid": "Isabella",
-    "subject": "US History",
-    "assignment": "History Lab 8 The West",
-    "due": "2026-11-23",
-    "desc": "Practice background (real lab locked until Nov 20): manifest destiny, the overland trails, the Mormon trek, the gold rush, the costs of expansion, and the four moves for analyzing lab sources.",
-    "file": "episodes/isabella-history-lab-8-the-west-2026-11-23.mp3",
-    "duration": "2:56"
-  },
-  {
     "id": "james-4-3-the-math-class-2026-11-23",
     "kid": "James",
     "subject": "CS A",
@@ -748,6 +738,16 @@
     "desc": "Marcus covers the Math class methods and constants, return types, and the U4L3 doc that also gets turned in.",
     "file": "episodes/james-4-3-the-math-class-2026-11-23.mp3",
     "duration": "2:35"
+  },
+  {
+    "id": "isabella-history-lab-8-the-west-2026-11-23",
+    "kid": "Isabella",
+    "subject": "US History",
+    "assignment": "History Lab 8 The West",
+    "due": "2026-11-23",
+    "desc": "Marcus explains the real lab: pick one primary source, write a summary and analysis plus one question, with a worked model on Frederick Douglass, July 5, 1852.",
+    "file": "episodes/isabella-history-lab-8-the-west-2026-11-23.mp3",
+    "duration": "3:10"
   },
   {
     "id": "isabella-due-11-24-4-6-hw-fundamental-theorem-of-algebra-descartes-rule-of-signs-complex-conjugates-theorem-2026-11-24",
