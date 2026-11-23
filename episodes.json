@@ -750,6 +750,16 @@
     "duration": "3:10"
   },
   {
+    "id": "james-ws-units-1-4-review-2026-11-23",
+    "kid": "James",
+    "subject": "Calculus",
+    "assignment": "WS Units 1-4 Review",
+    "due": "2026-11-23",
+    "desc": "Marcus reviews the big idea of each unit, limits and continuity, the derivative definition, chain rule and implicit differentiation, and contextual applications, with practice examples.",
+    "file": "episodes/james-ws-units-1-4-review-2026-11-23.mp3",
+    "duration": "2:32"
+  },
+  {
     "id": "isabella-due-11-24-4-6-hw-fundamental-theorem-of-algebra-descartes-rule-of-signs-complex-conjugates-theorem-2026-11-24",
     "kid": "Isabella",
     "subject": "Algebra II",
