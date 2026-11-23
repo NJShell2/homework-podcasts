@@ -790,6 +790,16 @@
     "duration": "4:52"
   },
   {
+    "id": "james-ws-topic-5-2-2026-11-24",
+    "kid": "James",
+    "subject": "Calculus",
+    "assignment": "WS Topic 5.2",
+    "due": "2026-11-24",
+    "desc": "Marcus explains the Extreme Value Theorem, critical points, and how to find absolute extrema on a closed interval, with a worked practice example.",
+    "file": "episodes/james-ws-topic-5-2-2026-11-24.mp3",
+    "duration": "2:32"
+  },
+  {
     "id": "james-4-5-random-2026-11-30",
     "kid": "James",
     "subject": "CS A",
