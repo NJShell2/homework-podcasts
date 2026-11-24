@@ -760,16 +760,6 @@
     "duration": "2:32"
   },
   {
-    "id": "isabella-due-11-24-4-6-hw-fundamental-theorem-of-algebra-descartes-rule-of-signs-complex-conjugates-theorem-2026-11-24",
-    "kid": "Isabella",
-    "subject": "Algebra II",
-    "assignment": "Due 11/24: 4.6 HW (Fundamental Theorem of Algebra, Descartes' Rule of Signs, Complex Conjugates Theorem)",
-    "due": "2026-11-24",
-    "desc": "Practice fundamentals (real problems locked until Nov 19): the Fundamental Theorem of Algebra, Descartes' Rule of Signs, and the Complex Conjugates Theorem, with worked examples and a four-step attack for the real set.",
-    "file": "episodes/isabella-due-11-24-4-6-hw-fundamental-theorem-of-algebra-descartes-rule-of-signs-complex-conjugates-theorem-2026-11-24.mp3",
-    "duration": "3:24"
-  },
-  {
     "id": "james-4-4-casting-rounding-2026-11-24",
     "kid": "James",
     "subject": "CS A",
@@ -808,6 +798,16 @@
     "desc": "Real-content walkthrough of Isabella's unfinished VSEPR items (Pearson MasteringChemistry, due Nov 24): the drawing fixes for NH4+ and C2Cl2, then COCl2, HCN, SO2, the least-polar pick, SO3, SiCl4, and HNF2 with shapes, angles, and polarity.",
     "file": "episodes/isabella-vsepr-2026-11-24.mp3",
     "duration": "5:19"
+  },
+  {
+    "id": "isabella-due-11-24-4-6-hw-fundamental-theorem-of-algebra-descartes-rule-of-signs-complex-conjugates-theorem-2026-11-24",
+    "kid": "Isabella",
+    "subject": "Algebra II",
+    "assignment": "Due 11/24: 4.6 HW (Fundamental Theorem of Algebra, Descartes' Rule of Signs, Complex Conjugates Theorem)",
+    "due": "2026-11-24",
+    "desc": "Marcus teaches the real 4.6 Big Ideas set: Fundamental Theorem of Algebra, Descartes' Rule of Signs, and the Complex Conjugates Theorem, with the solution path for all 17 problems.",
+    "file": "episodes/isabella-due-11-24-4-6-hw-fundamental-theorem-of-algebra-descartes-rule-of-signs-complex-conjugates-theorem-2026-11-24.mp3",
+    "duration": "4:33"
   },
   {
     "id": "james-4-5-random-2026-11-30",
