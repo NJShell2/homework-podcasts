@@ -730,6 +730,16 @@
     "duration": "3:30"
   },
   {
+    "id": "isabella-unit-7-vocab-quiz-2026-11-20",
+    "kid": "Isabella",
+    "subject": "English 10",
+    "assignment": "Unit 7 Vocab Quiz",
+    "due": "2026-11-20",
+    "desc": "Marcus teaches the 15 words from the teacher's own Vocabulary PowerPlus Lesson 7 (Level 10) study set: definition, example, and memory hook for each, with the demure/demagogue pair drilled.",
+    "file": "episodes/isabella-unit-7-vocab-quiz-2026-11-20.mp3",
+    "duration": "4:40"
+  },
+  {
     "id": "james-4-3-the-math-class-2026-11-23",
     "kid": "James",
     "subject": "CS A",
