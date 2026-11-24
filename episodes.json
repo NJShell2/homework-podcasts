@@ -780,16 +780,6 @@
     "duration": "3:34"
   },
   {
-    "id": "isabella-vsepr-2026-11-24",
-    "kid": "Isabella",
-    "subject": "Chemistry",
-    "assignment": "VSEPR",
-    "due": "2026-11-24",
-    "desc": "Marcus teaches the VSEPR method: counting electron domains, the five geometries, lone pair effects, and worked examples for ammonia, water, and carbon dioxide. Practice material; the real assignment is in Pearson.",
-    "file": "episodes/isabella-vsepr-2026-11-24.mp3",
-    "duration": "3:00"
-  },
-  {
     "id": "isabella-ch-13-2-questions-2026-11-24",
     "kid": "Isabella",
     "subject": "US History",
@@ -808,6 +798,16 @@
     "desc": "Marcus explains the Extreme Value Theorem, critical points, and how to find absolute extrema on a closed interval, with a worked practice example.",
     "file": "episodes/james-ws-topic-5-2-2026-11-24.mp3",
     "duration": "2:32"
+  },
+  {
+    "id": "isabella-vsepr-2026-11-24",
+    "kid": "Isabella",
+    "subject": "Chemistry",
+    "assignment": "VSEPR",
+    "due": "2026-11-24",
+    "desc": "Real-content walkthrough of Isabella's unfinished VSEPR items (Pearson MasteringChemistry, due Nov 24): the drawing fixes for NH4+ and C2Cl2, then COCl2, HCN, SO2, the least-polar pick, SO3, SiCl4, and HNF2 with shapes, angles, and polarity.",
+    "file": "episodes/isabella-vsepr-2026-11-24.mp3",
+    "duration": "5:19"
   },
   {
     "id": "james-4-5-random-2026-11-30",
