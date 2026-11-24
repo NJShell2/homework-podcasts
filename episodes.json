@@ -860,6 +860,16 @@
     "duration": "2:16"
   },
   {
+    "id": "isabella-term-quiz-ch-13-2026-12-01",
+    "kid": "Isabella",
+    "subject": "US History",
+    "assignment": "Term Quiz Ch. 13",
+    "due": "2026-12-01",
+    "desc": "Marcus preps Isabella for the Dec 1 Chapter 13 term quiz: the full timeline, all 11 real questions from the 13-1 and 13-2 assignments answered in brief, and 10 key terms. Quiz prep; the quiz itself is not visible.",
+    "file": "episodes/isabella-term-quiz-ch-13-2026-12-01.mp3",
+    "duration": "4:18"
+  },
+  {
     "id": "james-4-7-nested-if-statements-2026-12-02",
     "kid": "James",
     "subject": "CS A",
